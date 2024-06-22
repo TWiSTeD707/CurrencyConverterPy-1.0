@@ -4,7 +4,7 @@ from aiogram import executor
 import currencyAPI
 
 # Токен API Telegram-бота
-API_TOKEN = '7331532847:AAG7IIa5uwczjj0XzLO_SMWR7BE03iJP7W4'
+API_TOKEN = ''
 
 # Создание объекта бота
 bot = Bot(token=API_TOKEN)
